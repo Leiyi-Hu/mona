@@ -15,21 +15,12 @@ from .samplers import DistributedSampler, RepeatAugSampler
 from .stanford_cars import StanfordCars
 from .voc import VOC
 
-from .caltech101_new import Caltech101
-from .country211_new import Country211
-from .dtd_new import DTD
 from .eurosat_clip import EurosatClip
-from .fer_new import Fer
-from .fgvc_new import FGVC
-from .gtsrb_new import Gtsrb
 
-from .cifar10_new import CIFAR10N
-from .cifar100_new import CIFAR100N
-from .mnist_new import MNISTN
-from .oxford_flower_new import OXFORDFLOWERN
-from .oxford_pet_new import OXFORDPETN
-from .stanford_cars_new import STANFORDCARSN
-from .voc_new import VOCN
+
+from .oxford_flower_mona import OxfordFlowerMona
+from .oxford_pet_mona import OxfordPetMona
+from .voc_mona import VOCMona
 
 __all__ = [
     'BaseDataset', 'ImageNet', 'CIFAR10', 'CIFAR100', 'MNIST', 'FashionMNIST',
@@ -37,7 +28,5 @@ __all__ = [
     'DistributedSampler', 'ConcatDataset', 'RepeatDataset',
     'ClassBalancedDataset', 'DATASETS', 'PIPELINES', 'ImageNet21k', 'SAMPLERS',
     'build_sampler', 'RepeatAugSampler', 'KFoldDataset', 'CUB',
-    'CustomDataset', 'StanfordCars',
-
-    'Caltech101', 'Country211', 'DTD', 'EurosatClip', 'Fer', 'FGVC', 'Gtsrb'
+    'CustomDataset', 'StanfordCars', 'EurosatClip',
 ]

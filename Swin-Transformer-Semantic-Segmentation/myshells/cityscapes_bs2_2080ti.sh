@@ -1,3 +1,0 @@
-PORT=22223 tools/dist_train.sh myconfigs/swin_large/1_cityscapes_upernet_swin_large_80k_full.py 8
-PORT=22223 tools/dist_train.sh myconfigs/swin_large/9_cityscapes_upernet_swin_large_80k_larry_v1_6_64_lr15-2.py 8
-PORT=22223 tools/dist_train.sh myconfigs/swin_large/9_cityscapes_upernet_swin_large_80k_larry_v1_64_lr15-2.py 8
