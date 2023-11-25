@@ -36,7 +36,8 @@ learning in the future.
 Note: 
 - We report the results with `Cascade Mask R-CNN` (Swin-Base) and `UperNet` (Swin-Large) framework for COCO and ADE20K 
 respectively.
-- The pre-trained weights are IM22K-Supervied pre-trained [Swin-Base]() and [Swin-Large]().
+- The pre-trained weights are IM22K-Supervied pre-trained [Swin-Base](https://drive.google.com/file/d/10-pbubW1-80W0SgWdGP20Q_cm6MlrDpN/view?usp=drive_link
+) and [Swin-Large](https://drive.google.com/file/d/142x0CCSItr5p05ea3oylWGaW9MEgnXKU/view?usp=drive_link).
 
 ---
 
@@ -50,7 +51,7 @@ Note:
 # Getting Started
 ## Object Detection & Instance Segmentation
 ### Installation
-Please refer to [Swin-Transformer-Object-Dection](Swin-Transformer-Object-Detection/docs/get_started.md) for the 
+Please refer to [Swin-Transformer-Object-Detection](Swin-Transformer-Object-Detection/docs/get_started.md) for the 
 environments and dataset preparation.
 
 ### Training Mona
