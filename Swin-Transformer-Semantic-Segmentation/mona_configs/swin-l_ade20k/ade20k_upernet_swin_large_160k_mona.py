@@ -30,13 +30,11 @@ model = dict(
         norm_cfg=norm_cfg
     ))
 
-LR_MULT = 5.0
-BACKBONE_LR_MULT = 5.0
 
 # AdamW optimizer, no weight decay for position embedding & layer norm in backbone
-optimizer = dict(_delete_=True, type='AdamW', lr=0.00006 * LR_MULT, betas=(0.9, 0.999), weight_decay=0.01,
+optimizer = dict(_delete_=True, type='AdamW', lr=0.00006 * 5.0, betas=(0.9, 0.999), weight_decay=0.01,
                  paramwise_cfg=dict(custom_keys={
-                     'backbone': dict(lr_mult=BACKBONE_LR_MULT / LR_MULT),
+                     'backbone': dict(lr_mult=1.0),
                      'absolute_pos_embed': dict(decay_mult=0.),
                      'relative_position_bias_table': dict(decay_mult=0.),
                      'norm': dict(decay_mult=0.)}))
