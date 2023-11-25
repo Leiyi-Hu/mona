@@ -38,6 +38,15 @@ Note:
 respectively.
 - The pre-trained weights are IM22K-Supervied pre-trained [Swin-Base]() and [Swin-Large]().
 
+---
+
+Moreover, Mona converges faster than other tested delta-tuning arts.
+
+![convergency](resources/convergency.png)
+
+Note:
+- We obtain the loss on `VOC` dataset with `RetinaNet` equipped with Swin-Large.
+
 # Getting Started
 ## Object Detection & Instance Segmentation
 ### Installation
