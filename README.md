@@ -123,7 +123,7 @@ bash Swin-Transformer-Classification/tools/dist_train.sh Swin-Transformer-Classi
 bash Swin-Transformer-Classification/tools/dist_train.sh Swin-Transformer-Classification/mona_configs/swin-l_oxford-flower/swin-large_4xb8_oxford_pet_mona.py `Your GPUs`
 ```
 
-#### Oxford Voc
+#### Oxford VOC
 ```shell
 bash Swin-Transformer-Classification/tools/dist_train.sh Swin-Transformer-Classification/mona_configs/swin-l_oxford-flower/swin-large_4xb8_voc_mona.py `Your GPUs`
 ```
