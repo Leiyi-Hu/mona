@@ -86,7 +86,19 @@ the environments.
 
 Note:
 - We reorganize the dataset format to match the requirements of mmclassification.
-- You can follow 
+- You can follow the following format:
+```
+mmclassification
+└── data
+    └── my_dataset
+        ├── meta
+        │   ├── train.txt
+        │   ├── val.txt
+        │   └── test.txt
+        ├── train
+        ├── val
+        └── test
+```
 
 ### Training Mona 
 Follow the guidance in [Object Detection & Instance Segmentation](#object-detection--instance-segmentation) to check your config file.
