@@ -1,6 +1,6 @@
 # Mona
 
-The official implementation of "[Adapter is All You Need for Tuning Visual Tasks](None)".
+The official implementation of "[Adapter is All You Need for Tuning Visual Tasks](https://arxiv.org/pdf/2311.15010.pdf)".
 
 ## Table of Contents
 
