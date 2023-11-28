@@ -133,7 +133,14 @@ bash Swin-Transformer-Classification/tools/dist_train.sh Swin-Transformer-Classi
 If our work is helpful for your research, please cite:
 ```angular2html
 
-Mona Arxiv Url.
+@misc{yin2023adapter,
+      title={Adapter is All You Need for Tuning Visual Tasks}, 
+      author={Dongshuo Yin and Leiyi Hu. Bin Li and Youqun Zhang},
+      year={2023},
+      eprint={2311.15010},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 ```
 
