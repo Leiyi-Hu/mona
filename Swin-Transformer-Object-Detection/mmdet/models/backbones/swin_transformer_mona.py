@@ -47,6 +47,13 @@ class MonaOp(nn.Module):
 
         return identity + x
 
+    def train(self, mode=True):
+        """Convert the model into training mode while keep layers freezed."""
+        super(MonaOp, self).train(mode)
+        for name, param in self.named_parameters():
+            if 'projector' not in name:
+                param.requires_grad = False
+
 class Mona(BaseModule):
     def __init__(self,
                  in_dim,
