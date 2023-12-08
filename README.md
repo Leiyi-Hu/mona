@@ -69,7 +69,7 @@ bash Swin-Transformer-Object-Detection/tools/dist_train.sh Swin-Transformer-Obje
 
 #### VOC
 ```shell
-bash Swin-Transformer-Object-Detection/tools/dist_train.sh Swin-Transformer-Object-Detection/mona_configs/swin-b_coco/cascade_mask_swin_base_3x_coco_sample_1_bs_16_mona.py `Your GPUs`
+bash Swin-Transformer-Object-Detection/tools/dist_train.sh Swin-Transformer-Object-Detection/mona_configs/swin-l_voc/voc_retinanet_swin_large_1x_mona.py `Your GPUs`
 ```
 
 
