@@ -20,6 +20,24 @@ from .swin_transformer_norm_tuning import SwinTransformer_norm_tuning
 from .swin_transformer_mona import SwinTransformer_mona
 
 __all__ = [
-    'ResNet', 'ResNetV1c', 'ResNetV1d', 'ResNeXt', 'HRNet', 'FastSCNN',
-    'ResNeSt', 'MobileNetV2', 'UNet', 'CGNet', 'MobileNetV3', 'SwinTransformer',
+    "ResNet",
+    "ResNetV1c",
+    "ResNetV1d",
+    "ResNeXt",
+    "HRNet",
+    "FastSCNN",
+    "ResNeSt",
+    "MobileNetV2",
+    "UNet",
+    "CGNet",
+    "MobileNetV3",
+    "SwinTransformer",
+    "SwinTransformer_fixed",
+    "SwinTransformer_adapter",
+    "SwinTransformer_adaptformer",
+    "SwinTransformer_lora",
+    "SwinTransformer_partial_1",
+    "SwinTransformer_bitfit",
+    "SwinTransformer_norm_tuning",
+    "SwinTransformer_mona",
 ]

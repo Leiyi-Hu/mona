@@ -9,7 +9,7 @@ load_from='/pretrained_model/swin_base_patch4_window7_224_22k.pth'
 
 model = dict(
     backbone=dict(
-        type='SwinTransformer_Larry_v1_6_64',
+        type='SwinTransformer_mona',
         embed_dim=128,
         depths=[2, 2, 18, 2],
         num_heads=[4, 8, 16, 32],
