@@ -1,6 +1,6 @@
 # Mona
 
-The official implementation of "[Adapter is All You Need for Tuning Visual Tasks](https://arxiv.org/pdf/2311.15010.pdf)".
+The official implementation of "[5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks](https://arxiv.org/pdf/2408.08345)".
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ fails to exceed the upper limit of full ﬁne-tuning on challenging tasks like i
 segmentation. To ﬁnd a competitive alternative to full ﬁne-tuning, we propose the Multi-cognitive Visual Adapter (Mona) 
 tuning, a novel adapter-based tuning method.
 
-![mona](resources/meta.png)
+![mona](resources/mona2.png)
 
 Mona achieves the strong performance on COCO object detection (`53.4 box AP` and `46.0 mask AP` on `test-dev` with 
 Swin-Base), and ADE20K semantic segmentation (`51.36 mIoU` on `val` with Swin-Large).
@@ -133,15 +133,15 @@ bash Swin-Transformer-Classification/tools/dist_train.sh Swin-Transformer-Classi
 If our work is helpful for your research, please cite:
 ```angular2html
 
-@misc{yin2023adapter,
-      title={Adapter is All You Need for Tuning Visual Tasks}, 
-      author={Dongshuo Yin and Leiyi Hu and Bin Li and Youqun Zhang},
-      year={2023},
-      eprint={2311.15010},
+@misc{yin20245100breakingperformanceshackles,
+      title={5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks}, 
+      author={Dongshuo Yin and Leiyi Hu and Bin Li and Youqun Zhang and Xue Yang},
+      year={2024},
+      eprint={2408.08345},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.08345}, 
 }
-
 ```
 
 
