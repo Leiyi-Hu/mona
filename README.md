@@ -39,7 +39,9 @@ delta-tuning art. The results demonstrate that the adapter-tuning paradigm can r
 better performance in most visual tasks. Full ﬁne-tuning may no longer be the only preferred solution for transfer 
 learning in the future.
 
+<div align="center">
 ![performance](resources/performance2.png)
+</div>
 
 Note: 
 - We report the results with `Cascade Mask R-CNN` (Swin-Base) and `UperNet` (Swin-Large) framework for COCO and ADE20K 
