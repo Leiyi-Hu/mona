@@ -55,7 +55,11 @@ respectively.
 
 Moreover, Mona converges faster than other tested delta-tuning arts.
 
-![convergency](resources/convergency.png)
+<div align="center">
+    
+![convergency](resources/convergency2.png)
+
+</div>
 
 Note:
 - We obtain the loss on `VOC` dataset with `RetinaNet` equipped with Swin-Large.
