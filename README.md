@@ -40,7 +40,9 @@ better performance in most visual tasks. Full ﬁne-tuning may no longer be the 
 learning in the future.
 
 <div align="center">
+    
 ![performance](resources/performance2.png)
+
 </div>
 
 Note: 
