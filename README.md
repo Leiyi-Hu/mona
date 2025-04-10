@@ -1,9 +1,12 @@
-# Mona
+<div align="center">
 
-The official implementation of "[5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks](https://arxiv.org/pdf/2408.08345)".
+## [CVPR 2025] 5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks
 
-## News
-- Our paper has been accepted by CVPR 2025 Main Track!
+### [CVPR Page](https://cvpr.thecvf.com/virtual/2025/poster/34704) |  [arXiv](https://arxiv.org/pdf/2408.08345)
+
+![teaser](resources/mona2.png)
+</div>
+
 - Chinese introduction is here [【CVPR25】打破全参数微调的性能枷锁：即插即用的提点神器Mona引领视觉微调新突破](https://zhuanlan.zhihu.com/p/27268256527)!
 
 
