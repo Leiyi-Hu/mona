@@ -8,7 +8,7 @@
 
 </div>
 
-- Chinese introduction is here [【CVPR25】打破全参数微调的性能枷锁：即插即用的提点神器Mona引领视觉微调新突破](https://zhuanlan.zhihu.com/p/27268256527)!
+- Chinese introduction [【CVPR25】打破全参数微调的性能枷锁：即插即用的提点神器Mona引领视觉微调新突破](https://zhuanlan.zhihu.com/p/27268256527)!
 
 
 
