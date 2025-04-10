@@ -4,7 +4,7 @@
 
 ### [CVPR Page](https://cvpr.thecvf.com/virtual/2025/poster/34704) |  [arXiv](https://arxiv.org/pdf/2408.08345)
 
-<img src="figs/teaser.gif" alt="teaser" width="600" />
+<img src="figs/teaser.gif" alt="teaser" width="100%" />
 
 </div>
 
