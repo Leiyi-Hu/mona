@@ -4,8 +4,7 @@
 
 ### [CVPR Page](https://cvpr.thecvf.com/virtual/2025/poster/34704) |  [arXiv](https://arxiv.org/pdf/2408.08345)
 
-<img src="figs/teaser.gif" alt="teaser" width="100%" />
-
+![teaser](resources/mona2.png)
 </div>
 
 - Chinese introduction is here [【CVPR25】打破全参数微调的性能枷锁：即插即用的提点神器Mona引领视觉微调新突破](https://zhuanlan.zhihu.com/p/27268256527)!
@@ -28,8 +27,6 @@ methods provide more options for visual classiﬁcation tasks. Despite their suc
 fails to exceed the upper limit of full ﬁne-tuning on challenging tasks like instance segmentation and semantic 
 segmentation. To ﬁnd a competitive alternative to full ﬁne-tuning, we propose the Multi-cognitive Visual Adapter (Mona) 
 tuning, a novel adapter-based tuning method.
-
-![mona](resources/mona2.png)
 
 Mona achieves the strong performance on COCO object detection (`53.4 box AP` and `46.0 mask AP` on `test-dev` with 
 Swin-Base), and ADE20K semantic segmentation (`51.36 mIoU` on `val` with Swin-Large).
