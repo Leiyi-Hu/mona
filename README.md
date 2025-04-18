@@ -150,7 +150,7 @@ If our work is helpful for your research, please cite:
 ```angular2html
 
 @misc{yin20245100breakingperformanceshackles,
-      title={5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks}, 
+      title={5\%>100\%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks}, 
       author={Dongshuo Yin and Leiyi Hu and Bin Li and Youqun Zhang and Xue Yang},
       year={2024},
       eprint={2408.08345},
