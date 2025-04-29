@@ -9,7 +9,7 @@
 </div>
 
 - Chinese introduction [【CVPR25】打破全参数微调的性能枷锁：即插即用的提点神器Mona引领视觉微调新突破](https://zhuanlan.zhihu.com/p/27268256527)!
-
+- Codes related to DOTA/STAR can be found [here](https://github.com/VisionXLab/STAR-MMRotate/tree/main/configs/h2rbox_v2p/peft), thanks to [@yangxue0827](https://github.com/yangxue0827).
 
 
 ## Table of Contents
