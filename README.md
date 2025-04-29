@@ -1,6 +1,6 @@
 <div align="center">
 
-## [CVPR 2025] 5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks
+## 🔥[CVPR 2025] 5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks
 
 ### [CVPR Homepage](https://cvpr.thecvf.com/virtual/2025/poster/34704) |  [arXiv](https://arxiv.org/pdf/2408.08345)
 
