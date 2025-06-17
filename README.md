@@ -2,7 +2,7 @@
 
 ## 🔥[CVPR 2025] 5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks
 
-### [CVPR Homepage](https://cvpr.thecvf.com/virtual/2025/poster/34704) |  [arXiv](https://arxiv.org/pdf/2408.08345)
+### [CVPR Homepage](https://cvpr.thecvf.com/virtual/2025/poster/34704) |  [PDF](https://arxiv.org/pdf/2408.08345](https://openaccess.thecvf.com/content/CVPR2025/papers/Yin_5100_Breaking_Performance_Shackles_of_Full_Fine-Tuning_on_Visual_Recognition_CVPR_2025_paper.pdf)
 
 ![teaser](resources/mona3.png)
 
