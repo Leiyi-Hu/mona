@@ -149,14 +149,12 @@ bash Swin-Transformer-Classification/tools/dist_train.sh Swin-Transformer-Classi
 If our work is helpful for your research, please cite:
 ```angular2html
 
-@misc{yin20245100breakingperformanceshackles,
-      title={5\%>100\%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks}, 
-      author={Dongshuo Yin and Leiyi Hu and Bin Li and Youqun Zhang and Xue Yang},
-      year={2024},
-      eprint={2408.08345},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2408.08345}, 
+@inproceedings{yin20255,
+  title={5\%> 100\%: Breaking performance shackles of full fine-tuning on visual recognition tasks},
+  author={Yin, Dongshuo and Hu, Leiyi and Li, Bin and Zhang, Youqun and Yang, Xue},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={20071--20081},
+  year={2025}
 }
 ```
 
